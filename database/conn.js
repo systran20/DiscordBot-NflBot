@@ -1,6 +1,6 @@
 let mongoose = require('mongoose');
 
-const server = 'root:mCrPa1HsJbUHw3in@nodeapi-cmhdp.mongodb.net'; // REPLACE WITH YOUR DB SERVER
+const server = 'xxxxxxxxxxxxxxxxx'; // REPLACE WITH YOUR DB SERVER
 const database = 'test'; // REPLACE WITH YOUR DB NAME
 
 class Database {
