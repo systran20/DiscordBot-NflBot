@@ -1,0 +1,8 @@
+{
+    "prefix": "!", //KOMUT PREFIX
+    "token" : "TOKENBURAYA",
+    "cdDefualt" : 5 , //komutların varsayılan cooldown süresi
+    "ownerID": "KANALIN SAHİBİNİN IDSI",
+    "MONGO_URI":"MONGO DB URI BURAYA",
+    "PORT": "8080" //LOCAL PORT NUMARASI
+}
